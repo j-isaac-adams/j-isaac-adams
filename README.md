@@ -98,8 +98,12 @@
 <br/>
 
 <div align="center">
-[j-isaac-adams's Stats](https://github-readme-stats.vercel.app/api?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&count_private=false)
-![j-isaac-adams's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<a href="https://github.com/j-isaac-adams/j-isaac-adams">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&count_private=false" />
+</a>
+<a href="https://github.com/j-isaac-adams/j-isaac-adams">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+</a>
 </div>
   
 <br/>  
