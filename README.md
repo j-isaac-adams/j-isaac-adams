@@ -93,9 +93,9 @@
 
 <br/>
 
-<div>
+<div align="center">
 <a href="https://github.com/j-isaac-adams/j-isaac-adams">
-  <img height=200 style="width: 40%" align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=317h3iflaiwnpeilvmldevubct5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+  <img height=200 align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=317h3iflaiwnpeilvmldevubct5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </a>
 </div>
 
