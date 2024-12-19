@@ -16,6 +16,7 @@
 
 <br/>
 
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -65,7 +66,8 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table> 
+</div> 
 
 <br/>  
 
