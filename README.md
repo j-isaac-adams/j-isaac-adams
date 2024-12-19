@@ -3,7 +3,7 @@
 </div>  
   
 
-<div align="center">Hi, I'm Isaac a student currently studying Computer Science and Artificial Intelligence at North Carolina State University. I'm focused in machine learning with additional experience in front end and back end development.</div>  
+<div align="center">\nHi, I'm Isaac a student currently studying Computer Science and Artificial Intelligence at North Carolina State University. I'm focused in machine learning with additional experience in front end and back end development.</div>  
   
 
 <br/>  
