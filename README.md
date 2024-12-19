@@ -97,10 +97,8 @@
 
 <br/>
 
-<div align="center">
-<div align="right">![j-isaac-adams's Stats](https://github-readme-stats.vercel.app/api?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&count_private=false)</div>
-<div align="left">![j-isaac-adams's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&layout=compact)</div>
-</div>  
+[j-isaac-adams's Stats](https://github-readme-stats.vercel.app/api?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&count_private=false)
+![j-isaac-adams's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <br/>  
 
