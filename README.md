@@ -93,9 +93,8 @@
 
 <br/>
 
-<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317h3iflaiwnpeilvmldevubct5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317h3iflaiwnpeilvmldevubct5y&redirect=true)
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317h3iflaiwnpeilvmldevubct5y&cover_image=true&align=center&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317h3iflaiwnpeilvmldevubct5y&redirect=true)
+
 
 <br/>
 
