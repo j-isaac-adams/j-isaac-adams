@@ -78,10 +78,10 @@
 <br/>
 
 <a href="https://github.com/j-isaac-adams/j-isaac-adams">
-  <img height=200 style="width: 49%" align="center" src="https://github-readme-stats.vercel.app/api?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&count_private=false&layout=compact" />
+  <img height=200 style="width: 45%" align="center" src="https://github-readme-stats.vercel.app/api?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&count_private=false&layout=compact" />
 </a>
 <a href="https://github.com/j-isaac-adams/j-isaac-adams">
-  <img height=200 style="width: 49%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+  <img height=200 style="width: 45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </a>
 
 <br/>
@@ -94,7 +94,7 @@
 <br/>
 
 <div align="center">
-<a href="https://github.com/j-isaac-adams/j-isaac-adams">
+<a href="https://open.spotify.com/user/317h3iflaiwnpeilvmldevubct5y?si=083ef265495846e6">
   <img height=200 align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=317h3iflaiwnpeilvmldevubct5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </a>
 </div>
