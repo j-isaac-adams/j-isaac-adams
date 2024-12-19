@@ -69,8 +69,22 @@
 </td></tr></table> 
 </div> 
 
-<br/>  
+<br/>   
 
+<div align="center">
+<img src="./assets/stats.png" align="center" style="width: 100%" />
+</div>  
+
+<br/>
+
+<a href="https://github.com/j-isaac-adams/j-isaac-adams">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&count_private=false&layout=compact" />
+</a>
+<a href="https://github.com/j-isaac-adams/j-isaac-adams">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+</a>
+  
+<br/>  
 
 <div align="center">
 <img src="./assets/connect.png" align="center" style="width: 100%" />
@@ -86,28 +100,8 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
-
-
-<div align="center">
-<img src="./assets/stats.png" align="center" style="width: 100%" />
-</div>  
-
-<br/>
-
-<div align="center">
-<a href="https://github.com/j-isaac-adams/j-isaac-adams">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&count_private=false" />
-</a>
-<a href="https://github.com/j-isaac-adams/j-isaac-adams">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-isaac-adams&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-</a>
-</div>
-  
-<br/>  
-
+<br/> 
 
 <div align="center">
 <img src="./assets/blog.png" align="center" style="width: 100%" />
